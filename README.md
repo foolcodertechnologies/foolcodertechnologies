@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Foolcoder Technologies Banner" width="100%">
+  <img src="bannar.png" alt="Foolcoder Technologies Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Welcome to Foolcoder Technologies</h1>
