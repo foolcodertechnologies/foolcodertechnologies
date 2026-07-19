@@ -158,7 +158,7 @@ Have an idea, a product to scale, or a partnership to discuss? We'd love to hear
 
 <div align="center">
 
-<img src="github.com/foolcodertechnologies" alt="Profile Views" />
+<img src="[github.com/foolcodertechnologies](https://github.com/foolcodertechnologies)" alt="Profile Views" />
 
 <br/>
 
